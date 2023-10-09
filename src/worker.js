@@ -67,7 +67,7 @@ const uiConfig = {
   "logo_width": "100px", // only if logo_image is true
   "favicon": "https://live.staticflickr.com/65535/53245609813_4d82d02cf8.jpg",
   // if logo is true then link otherwise just text for name
-  "logo_link_name": "https://live.staticflickr.com/65535/53221223378_c9c8584da9_c.jpg",
+  "logo_link_name": "https://live.staticflickr.com/65535/53245346616_bb7a5b590a_h.jpg",
   "login_image": "https://live.staticflickr.com/65535/53245835190_63c2b71781_h.jpg", // Login page logo image
   "fixed_header": true, // If you want the footer to be flexible or fixed.
   "header_padding": "80", // Value 80 for fixed header, Value 20 for flexible header. Required to be changed accordingly in some themes.
