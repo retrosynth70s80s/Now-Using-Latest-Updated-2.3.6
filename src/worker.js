@@ -88,7 +88,7 @@ const uiConfig = {
   "file_count_alert_class": "alert alert-secondary", // https://getbootstrap.com/docs/4.0/components/alerts/#examples
   "contact_link": "https://telegram.dog/Telegram", // Link to Contact Button on Menu
   "copyright_year": "2050", // year of copyright, can be anything like 2015 - 2020 or just 2020
-  "company_name": "The Bay Index", // Name next to copyright
+  "company_name": "Neon Lights", // Name next to copyright
   "company_link": "https://telegram.dog/Telegram", // link of copyright name
   "credit": true, // Set this to true to give us credit
   "display_size": true, // Set this to false to hide display file size
