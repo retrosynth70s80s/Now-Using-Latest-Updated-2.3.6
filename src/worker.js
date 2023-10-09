@@ -1,6 +1,6 @@
 // Software: GDI-JS
 // Version: 2.3.6
-// Author: Parveen Bhadoo
+// Author: Neon Lights
 // Website: https://gdi.js.org
 
 // add multiple serviceaccounts as {}, {}, {}, random account will be selected by each time app is opened.
@@ -14,7 +14,7 @@ const domain_for_dl = domains_for_dl[Math.floor(Math.random() * domains_for_dl.l
 const blocked_region = ['']; // add regional codes seperated by comma, eg. ['IN', 'US', 'PK']
 const blocked_asn = []; // add ASN numbers from http://www.bgplookingglass.com/list-of-autonomous-system-numbers, eg. [16509, 12345]
 const authConfig = {
-  "siteName": "Google Drive Index", // Website name
+  "siteName": "Neon Lights", // Website name
   "client_id": "", // Client id from Google Cloud Console
   "client_secret": "", // Client Secret from Google Cloud Console
   "refresh_token": "", // Authorize token
@@ -28,7 +28,7 @@ const authConfig = {
   "disable_anonymous_download": false, // disables direct links without session
   "file_link_expiry": 7, // expire file link in set number of days
   "search_all_drives": true, // search all of your drives instead of current drive if set to true
-  "enable_login": false, // set to true if you want to add login system
+  "enable_login": true, // set to true if you want to add login system
   "enable_signup": false, // set to true if you want to add signup system
   "enable_social_login": false, // set to true if you want to add social login system
   "google_client_id_for_login": "", // Google Client ID for Login
@@ -65,7 +65,7 @@ const uiConfig = {
   "logo_image": true, // true if you're using image link in next option.
   "logo_height": "", // only if logo_image is true
   "logo_width": "100px", // only if logo_image is true
-  "favicon": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.2.3/images/favicon.ico",
+  "favicon": "https://live.staticflickr.com/65535/53245609813_4d82d02cf8.jpg",
   // if logo is true then link otherwise just text for name
   "logo_link_name": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.2.3/images/bhadoo-cloud-logo-white.svg",
   "login_image": "https://i.imgur.com/5fHELJr.png", // Login page logo image
