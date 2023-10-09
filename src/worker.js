@@ -98,7 +98,7 @@ const uiConfig = {
   "disable_video_download": false, // Remove Download, Copy Button on Videos
   "allow_selecting_files": true, // Disable Selecting Files to Download in Bulk
   "second_domain_for_dl": false, // If you want to display other URL for Downloading to protect your main domain.
-  "poster": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.2.3/images/poster.jpg", // Video poster URL or see Readme to how to load from Drive
+  "poster": "https://live.staticflickr.com/65535/53245354491_9c367021ca_b.jpg", // Video poster URL or see Readme to how to load from Drive
   "audioposter": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.2.3/images/music.jpg", // Video poster URL or see Readme to how to load from Drive
   "jsdelivr_cdn_src": "https://cdn.jsdelivr.net/npm/@googledrive/index", // If Project is Forked, then enter your GitHub repo
   "render_head_md": true, // Render Head.md
